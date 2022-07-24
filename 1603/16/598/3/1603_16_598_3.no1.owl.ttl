@@ -22,7 +22,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10101" ;
     skos:prefLabel "Balimo Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG010101" ;
+    wdata:Q7200235 "PG010101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -368,7 +368,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100101" ;
     skos:prefLabel "Chuave Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100101" ;
+    wdata:Q7200235 "PG100101" ;
 .
 
 <urn:mdciii:1603:16:598:3:100102>
@@ -378,7 +378,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100102" ;
     skos:prefLabel "Elimbari Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100102" ;
+    wdata:Q7200235 "PG100102" ;
 .
 
 <urn:mdciii:1603:16:598:3:100103>
@@ -388,7 +388,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100103" ;
     skos:prefLabel "Siane Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100103" ;
+    wdata:Q7200235 "PG100103" ;
 .
 
 <urn:mdciii:1603:16:598:3:100204>
@@ -398,7 +398,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100204" ;
     skos:prefLabel "Bomai/Gumai Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100204" ;
+    wdata:Q7200235 "PG100204" ;
 .
 
 <urn:mdciii:1603:16:598:3:100205>
@@ -408,7 +408,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100205" ;
     skos:prefLabel "Gumine Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100205" ;
+    wdata:Q7200235 "PG100205" ;
 .
 
 <urn:mdciii:1603:16:598:3:100206>
@@ -418,7 +418,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100206" ;
     skos:prefLabel "Mt Digine Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100206" ;
+    wdata:Q7200235 "PG100206" ;
 .
 
 <urn:mdciii:1603:16:598:3:100307>
@@ -428,7 +428,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100307" ;
     skos:prefLabel "Karimui Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100307" ;
+    wdata:Q7200235 "PG100307" ;
 .
 
 <urn:mdciii:1603:16:598:3:100308>
@@ -438,7 +438,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100308" ;
     skos:prefLabel "Nomane Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100308" ;
+    wdata:Q7200235 "PG100308" ;
 .
 
 <urn:mdciii:1603:16:598:3:100309>
@@ -448,7 +448,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100309" ;
     skos:prefLabel "Salt Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100309" ;
+    wdata:Q7200235 "PG100309" ;
 .
 
 <urn:mdciii:1603:16:598:3:100410>
@@ -458,7 +458,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100410" ;
     skos:prefLabel "Gena/Waugla Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100410" ;
+    wdata:Q7200235 "PG100410" ;
 .
 
 <urn:mdciii:1603:16:598:3:100411>
@@ -468,7 +468,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100411" ;
     skos:prefLabel "Upper/Lower Koronigl LLG"@eng-Latn ;
-    wdata:q7200235 "PG100411" ;
+    wdata:Q7200235 "PG100411" ;
 .
 
 <urn:mdciii:1603:16:598:3:100412>
@@ -478,7 +478,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100412" ;
     skos:prefLabel "Kup Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100412" ;
+    wdata:Q7200235 "PG100412" ;
 .
 
 <urn:mdciii:1603:16:598:3:100420>
@@ -488,7 +488,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100420" ;
     skos:prefLabel "Kerowagi Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG100420" ;
+    wdata:Q7200235 "PG100420" ;
 .
 
 <urn:mdciii:1603:16:598:3:100513>
@@ -498,7 +498,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100513" ;
     skos:prefLabel "Kundiawa Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG100513" ;
+    wdata:Q7200235 "PG100513" ;
 .
 
 <urn:mdciii:1603:16:598:3:100514>
@@ -508,7 +508,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100514" ;
     skos:prefLabel "Mitnande Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100514" ;
+    wdata:Q7200235 "PG100514" ;
 .
 
 <urn:mdciii:1603:16:598:3:100515>
@@ -518,7 +518,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100515" ;
     skos:prefLabel "Niglkande Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100515" ;
+    wdata:Q7200235 "PG100515" ;
 .
 
 <urn:mdciii:1603:16:598:3:100516>
@@ -528,7 +528,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100516" ;
     skos:prefLabel "Waiye LLG"@eng-Latn ;
-    wdata:q7200235 "PG100516" ;
+    wdata:Q7200235 "PG100516" ;
 .
 
 <urn:mdciii:1603:16:598:3:100617>
@@ -538,7 +538,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100617" ;
     skos:prefLabel "Tabare Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100617" ;
+    wdata:Q7200235 "PG100617" ;
 .
 
 <urn:mdciii:1603:16:598:3:100618>
@@ -548,7 +548,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100618" ;
     skos:prefLabel "Suai Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100618" ;
+    wdata:Q7200235 "PG100618" ;
 .
 
 <urn:mdciii:1603:16:598:3:100619>
@@ -558,7 +558,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:100619" ;
     skos:prefLabel "Yonggomugl Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG100619" ;
+    wdata:Q7200235 "PG100619" ;
 .
 
 <urn:mdciii:1603:16:598:3:10102>
@@ -568,7 +568,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10102" ;
     skos:prefLabel "Bamu Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG010102" ;
+    wdata:Q7200235 "PG010102" ;
 .
 
 <urn:mdciii:1603:16:598:3:10103>
@@ -578,7 +578,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10103" ;
     skos:prefLabel "Gogodala Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG010103" ;
+    wdata:Q7200235 "PG010103" ;
 .
 
 <urn:mdciii:1603:16:598:3:10104>
@@ -588,7 +588,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10104" ;
     skos:prefLabel "Lake Murray Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG010104" ;
+    wdata:Q7200235 "PG010104" ;
 .
 
 <urn:mdciii:1603:16:598:3:10105>
@@ -598,7 +598,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10105" ;
     skos:prefLabel "Nomad Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG010105" ;
+    wdata:Q7200235 "PG010105" ;
 .
 
 <urn:mdciii:1603:16:598:3:10206>
@@ -608,7 +608,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10206" ;
     skos:prefLabel "Kiunga Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG010206" ;
+    wdata:Q7200235 "PG010206" ;
 .
 
 <urn:mdciii:1603:16:598:3:10207>
@@ -618,7 +618,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10207" ;
     skos:prefLabel "Kiunga Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG010207" ;
+    wdata:Q7200235 "PG010207" ;
 .
 
 <urn:mdciii:1603:16:598:3:10208>
@@ -628,7 +628,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10208" ;
     skos:prefLabel "Ningerum Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG010208" ;
+    wdata:Q7200235 "PG010208" ;
 .
 
 <urn:mdciii:1603:16:598:3:10209>
@@ -638,7 +638,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10209" ;
     skos:prefLabel "Olsobip Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG010209" ;
+    wdata:Q7200235 "PG010209" ;
 .
 
 <urn:mdciii:1603:16:598:3:10210>
@@ -648,7 +648,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10210" ;
     skos:prefLabel "Star Mountains Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG010210" ;
+    wdata:Q7200235 "PG010210" ;
 .
 
 <urn:mdciii:1603:16:598:3:10311>
@@ -658,7 +658,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10311" ;
     skos:prefLabel "Daru Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG010311" ;
+    wdata:Q7200235 "PG010311" ;
 .
 
 <urn:mdciii:1603:16:598:3:10312>
@@ -668,7 +668,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10312" ;
     skos:prefLabel "Kiwai Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG010312" ;
+    wdata:Q7200235 "PG010312" ;
 .
 
 <urn:mdciii:1603:16:598:3:10313>
@@ -678,7 +678,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10313" ;
     skos:prefLabel "Morehead Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG010313" ;
+    wdata:Q7200235 "PG010313" ;
 .
 
 <urn:mdciii:1603:16:598:3:10314>
@@ -688,7 +688,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:10314" ;
     skos:prefLabel "Oriomo-Bituri Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG010314" ;
+    wdata:Q7200235 "PG010314" ;
 .
 
 <urn:mdciii:1603:16:598:3:110101>
@@ -698,7 +698,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110101" ;
     skos:prefLabel "Watabung Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110101" ;
+    wdata:Q7200235 "PG110101" ;
 .
 
 <urn:mdciii:1603:16:598:3:110112>
@@ -708,7 +708,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110112" ;
     skos:prefLabel "Lower Asaro Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110112" ;
+    wdata:Q7200235 "PG110112" ;
 .
 
 <urn:mdciii:1603:16:598:3:110113>
@@ -718,7 +718,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110113" ;
     skos:prefLabel "Upper Asaro Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110113" ;
+    wdata:Q7200235 "PG110113" ;
 .
 
 <urn:mdciii:1603:16:598:3:110202>
@@ -728,7 +728,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110202" ;
     skos:prefLabel "Gahuku Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110202" ;
+    wdata:Q7200235 "PG110202" ;
 .
 
 <urn:mdciii:1603:16:598:3:110203>
@@ -738,7 +738,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110203" ;
     skos:prefLabel "Goroka Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG110203" ;
+    wdata:Q7200235 "PG110203" ;
 .
 
 <urn:mdciii:1603:16:598:3:110214>
@@ -748,7 +748,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110214" ;
     skos:prefLabel "Mimanalo Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110214" ;
+    wdata:Q7200235 "PG110214" ;
 .
 
 <urn:mdciii:1603:16:598:3:110304>
@@ -758,7 +758,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110304" ;
     skos:prefLabel "Kafentina Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110304" ;
+    wdata:Q7200235 "PG110304" ;
 .
 
 <urn:mdciii:1603:16:598:3:110315>
@@ -768,7 +768,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110315" ;
     skos:prefLabel "Dunantina Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110315" ;
+    wdata:Q7200235 "PG110315" ;
 .
 
 <urn:mdciii:1603:16:598:3:110316>
@@ -778,7 +778,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110316" ;
     skos:prefLabel "Fayantina Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110316" ;
+    wdata:Q7200235 "PG110316" ;
 .
 
 <urn:mdciii:1603:16:598:3:110405>
@@ -788,7 +788,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110405" ;
     skos:prefLabel "Kamano No. 2 Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110405" ;
+    wdata:Q7200235 "PG110405" ;
 .
 
 <urn:mdciii:1603:16:598:3:110406>
@@ -798,7 +798,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110406" ;
     skos:prefLabel "Kainantu Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG110406" ;
+    wdata:Q7200235 "PG110406" ;
 .
 
 <urn:mdciii:1603:16:598:3:110417>
@@ -808,7 +808,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110417" ;
     skos:prefLabel "Kamano No. 1 Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110417" ;
+    wdata:Q7200235 "PG110417" ;
 .
 
 <urn:mdciii:1603:16:598:3:110418>
@@ -818,7 +818,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110418" ;
     skos:prefLabel "Agarabi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110418" ;
+    wdata:Q7200235 "PG110418" ;
 .
 
 <urn:mdciii:1603:16:598:3:110419>
@@ -828,7 +828,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110419" ;
     skos:prefLabel "Gadsup/Tairora Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110419" ;
+    wdata:Q7200235 "PG110419" ;
 .
 
 <urn:mdciii:1603:16:598:3:110507>
@@ -838,7 +838,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110507" ;
     skos:prefLabel "Unavi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110507" ;
+    wdata:Q7200235 "PG110507" ;
 .
 
 <urn:mdciii:1603:16:598:3:110520>
@@ -848,7 +848,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110520" ;
     skos:prefLabel "Mt. Michael Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110520" ;
+    wdata:Q7200235 "PG110520" ;
 .
 
 <urn:mdciii:1603:16:598:3:110521>
@@ -858,7 +858,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110521" ;
     skos:prefLabel "Yagaria Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110521" ;
+    wdata:Q7200235 "PG110521" ;
 .
 
 <urn:mdciii:1603:16:598:3:110608>
@@ -868,7 +868,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110608" ;
     skos:prefLabel "Lamari Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110608" ;
+    wdata:Q7200235 "PG110608" ;
 .
 
 <urn:mdciii:1603:16:598:3:110609>
@@ -878,7 +878,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110609" ;
     skos:prefLabel "Yelia Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110609" ;
+    wdata:Q7200235 "PG110609" ;
 .
 
 <urn:mdciii:1603:16:598:3:110710>
@@ -888,7 +888,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110710" ;
     skos:prefLabel "East Okapa Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110710" ;
+    wdata:Q7200235 "PG110710" ;
 .
 
 <urn:mdciii:1603:16:598:3:110722>
@@ -898,7 +898,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110722" ;
     skos:prefLabel "West Okapa Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110722" ;
+    wdata:Q7200235 "PG110722" ;
 .
 
 <urn:mdciii:1603:16:598:3:110811>
@@ -908,7 +908,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110811" ;
     skos:prefLabel "Lower Benna LLG"@eng-Latn ;
-    wdata:q7200235 "PG110811" ;
+    wdata:Q7200235 "PG110811" ;
 .
 
 <urn:mdciii:1603:16:598:3:110823>
@@ -918,7 +918,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110823" ;
     skos:prefLabel "Upper Bena Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110823" ;
+    wdata:Q7200235 "PG110823" ;
 .
 
 <urn:mdciii:1603:16:598:3:110824>
@@ -928,7 +928,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:110824" ;
     skos:prefLabel "Unggai Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG110824" ;
+    wdata:Q7200235 "PG110824" ;
 .
 
 <urn:mdciii:1603:16:598:3:120101>
@@ -938,7 +938,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120101" ;
     skos:prefLabel "Mumeng Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120101" ;
+    wdata:Q7200235 "PG120101" ;
 .
 
 <urn:mdciii:1603:16:598:3:120102>
@@ -948,7 +948,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120102" ;
     skos:prefLabel "Waria Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120102" ;
+    wdata:Q7200235 "PG120102" ;
 .
 
 <urn:mdciii:1603:16:598:3:120103>
@@ -958,7 +958,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120103" ;
     skos:prefLabel "Watut Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120103" ;
+    wdata:Q7200235 "PG120103" ;
 .
 
 <urn:mdciii:1603:16:598:3:120104>
@@ -968,7 +968,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120104" ;
     skos:prefLabel "Wau/Bulolo Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG120104" ;
+    wdata:Q7200235 "PG120104" ;
 .
 
 <urn:mdciii:1603:16:598:3:120105>
@@ -978,7 +978,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120105" ;
     skos:prefLabel "Wau Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120105" ;
+    wdata:Q7200235 "PG120105" ;
 .
 
 <urn:mdciii:1603:16:598:3:120129>
@@ -988,7 +988,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120129" ;
     skos:prefLabel "Buang Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120129" ;
+    wdata:Q7200235 "PG120129" ;
 .
 
 <urn:mdciii:1603:16:598:3:120206>
@@ -998,7 +998,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120206" ;
     skos:prefLabel "Burum Kwat LLG"@eng-Latn ;
-    wdata:q7200235 "PG120206" ;
+    wdata:Q7200235 "PG120206" ;
 .
 
 <urn:mdciii:1603:16:598:3:120207>
@@ -1008,7 +1008,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120207" ;
     skos:prefLabel "Kotte Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120207" ;
+    wdata:Q7200235 "PG120207" ;
 .
 
 <urn:mdciii:1603:16:598:3:120208>
@@ -1018,7 +1018,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120208" ;
     skos:prefLabel "Yabim Mape Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120208" ;
+    wdata:Q7200235 "PG120208" ;
 .
 
 <urn:mdciii:1603:16:598:3:120232>
@@ -1028,7 +1028,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120232" ;
     skos:prefLabel "Hube Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120232" ;
+    wdata:Q7200235 "PG120232" ;
 .
 
 <urn:mdciii:1603:16:598:3:120233>
@@ -1038,7 +1038,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120233" ;
     skos:prefLabel "Finschafen Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG120233" ;
+    wdata:Q7200235 "PG120233" ;
 .
 
 <urn:mdciii:1603:16:598:3:120309>
@@ -1048,7 +1048,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120309" ;
     skos:prefLabel "Morobe Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120309" ;
+    wdata:Q7200235 "PG120309" ;
 .
 
 <urn:mdciii:1603:16:598:3:120310>
@@ -1058,7 +1058,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120310" ;
     skos:prefLabel "Salamaua Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120310" ;
+    wdata:Q7200235 "PG120310" ;
 .
 
 <urn:mdciii:1603:16:598:3:120311>
@@ -1068,7 +1068,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120311" ;
     skos:prefLabel "Wampar Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120311" ;
+    wdata:Q7200235 "PG120311" ;
 .
 
 <urn:mdciii:1603:16:598:3:120412>
@@ -1078,7 +1078,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120412" ;
     skos:prefLabel "Deyamos Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120412" ;
+    wdata:Q7200235 "PG120412" ;
 .
 
 <urn:mdciii:1603:16:598:3:120414>
@@ -1088,7 +1088,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120414" ;
     skos:prefLabel "Yus Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120414" ;
+    wdata:Q7200235 "PG120414" ;
 .
 
 <urn:mdciii:1603:16:598:3:120431>
@@ -1098,7 +1098,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120431" ;
     skos:prefLabel "Komba Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120431" ;
+    wdata:Q7200235 "PG120431" ;
 .
 
 <urn:mdciii:1603:16:598:3:120435>
@@ -1108,7 +1108,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120435" ;
     skos:prefLabel "Selepet Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120435" ;
+    wdata:Q7200235 "PG120435" ;
 .
 
 <urn:mdciii:1603:16:598:3:120515>
@@ -1118,7 +1118,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120515" ;
     skos:prefLabel "Ahi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120515" ;
+    wdata:Q7200235 "PG120515" ;
 .
 
 <urn:mdciii:1603:16:598:3:120516>
@@ -1128,7 +1128,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120516" ;
     skos:prefLabel "Lae Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG120516" ;
+    wdata:Q7200235 "PG120516" ;
 .
 
 <urn:mdciii:1603:16:598:3:120617>
@@ -1138,7 +1138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120617" ;
     skos:prefLabel "Onga/Waffa Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120617" ;
+    wdata:Q7200235 "PG120617" ;
 .
 
 <urn:mdciii:1603:16:598:3:120618>
@@ -1148,7 +1148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120618" ;
     skos:prefLabel "Umi/Atzera Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120618" ;
+    wdata:Q7200235 "PG120618" ;
 .
 
 <urn:mdciii:1603:16:598:3:120619>
@@ -1158,7 +1158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120619" ;
     skos:prefLabel "Wantoat/Leron Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120619" ;
+    wdata:Q7200235 "PG120619" ;
 .
 
 <urn:mdciii:1603:16:598:3:120721>
@@ -1168,7 +1168,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120721" ;
     skos:prefLabel "Kome Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120721" ;
+    wdata:Q7200235 "PG120721" ;
 .
 
 <urn:mdciii:1603:16:598:3:120722>
@@ -1178,7 +1178,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120722" ;
     skos:prefLabel "Wapi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120722" ;
+    wdata:Q7200235 "PG120722" ;
 .
 
 <urn:mdciii:1603:16:598:3:120730>
@@ -1188,7 +1188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120730" ;
     skos:prefLabel "Kapao Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120730" ;
+    wdata:Q7200235 "PG120730" ;
 .
 
 <urn:mdciii:1603:16:598:3:120734>
@@ -1198,7 +1198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120734" ;
     skos:prefLabel "Nanima Kariba LLG"@eng-Latn ;
-    wdata:q7200235 "PG120734" ;
+    wdata:Q7200235 "PG120734" ;
 .
 
 <urn:mdciii:1603:16:598:3:120823>
@@ -1208,7 +1208,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120823" ;
     skos:prefLabel "Labuta Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120823" ;
+    wdata:Q7200235 "PG120823" ;
 .
 
 <urn:mdciii:1603:16:598:3:120824>
@@ -1218,7 +1218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120824" ;
     skos:prefLabel "Nabak Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120824" ;
+    wdata:Q7200235 "PG120824" ;
 .
 
 <urn:mdciii:1603:16:598:3:120825>
@@ -1228,7 +1228,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120825" ;
     skos:prefLabel "Wain-Erap Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120825" ;
+    wdata:Q7200235 "PG120825" ;
 .
 
 <urn:mdciii:1603:16:598:3:120926>
@@ -1238,7 +1238,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120926" ;
     skos:prefLabel "Sialum Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120926" ;
+    wdata:Q7200235 "PG120926" ;
 .
 
 <urn:mdciii:1603:16:598:3:120927>
@@ -1248,7 +1248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120927" ;
     skos:prefLabel "Siassi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120927" ;
+    wdata:Q7200235 "PG120927" ;
 .
 
 <urn:mdciii:1603:16:598:3:120928>
@@ -1258,7 +1258,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:120928" ;
     skos:prefLabel "Wasu Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG120928" ;
+    wdata:Q7200235 "PG120928" ;
 .
 
 <urn:mdciii:1603:16:598:3:130101>
@@ -1268,7 +1268,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130101" ;
     skos:prefLabel "Almami Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130101" ;
+    wdata:Q7200235 "PG130101" ;
 .
 
 <urn:mdciii:1603:16:598:3:130102>
@@ -1278,7 +1278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130102" ;
     skos:prefLabel "Iabu Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130102" ;
+    wdata:Q7200235 "PG130102" ;
 .
 
 <urn:mdciii:1603:16:598:3:130103>
@@ -1288,7 +1288,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130103" ;
     skos:prefLabel "Yawar Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130103" ;
+    wdata:Q7200235 "PG130103" ;
 .
 
 <urn:mdciii:1603:16:598:3:130204>
@@ -1298,7 +1298,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130204" ;
     skos:prefLabel "Ambenob Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130204" ;
+    wdata:Q7200235 "PG130204" ;
 .
 
 <urn:mdciii:1603:16:598:3:130205>
@@ -1308,7 +1308,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130205" ;
     skos:prefLabel "Madang Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG130205" ;
+    wdata:Q7200235 "PG130205" ;
 .
 
 <urn:mdciii:1603:16:598:3:130206>
@@ -1318,7 +1318,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130206" ;
     skos:prefLabel "Transgogol Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130206" ;
+    wdata:Q7200235 "PG130206" ;
 .
 
 <urn:mdciii:1603:16:598:3:130307>
@@ -1328,7 +1328,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130307" ;
     skos:prefLabel "Arabaka Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130307" ;
+    wdata:Q7200235 "PG130307" ;
 .
 
 <urn:mdciii:1603:16:598:3:130308>
@@ -1338,7 +1338,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130308" ;
     skos:prefLabel "Josephstaal Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130308" ;
+    wdata:Q7200235 "PG130308" ;
 .
 
 <urn:mdciii:1603:16:598:3:130309>
@@ -1348,7 +1348,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130309" ;
     skos:prefLabel "Simbai Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130309" ;
+    wdata:Q7200235 "PG130309" ;
 .
 
 <urn:mdciii:1603:16:598:3:130317>
@@ -1358,7 +1358,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130317" ;
     skos:prefLabel "Kovon LLG"@eng-Latn ;
-    wdata:q7200235 "PG130317" ;
+    wdata:Q7200235 "PG130317" ;
 .
 
 <urn:mdciii:1603:16:598:3:130410>
@@ -1368,7 +1368,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130410" ;
     skos:prefLabel "Astrolabe Bay Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130410" ;
+    wdata:Q7200235 "PG130410" ;
 .
 
 <urn:mdciii:1603:16:598:3:130411>
@@ -1378,7 +1378,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130411" ;
     skos:prefLabel "Naho Rawa Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130411" ;
+    wdata:Q7200235 "PG130411" ;
 .
 
 <urn:mdciii:1603:16:598:3:130412>
@@ -1388,7 +1388,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130412" ;
     skos:prefLabel "Rai Coast Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130412" ;
+    wdata:Q7200235 "PG130412" ;
 .
 
 <urn:mdciii:1603:16:598:3:130418>
@@ -1398,7 +1398,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130418" ;
     skos:prefLabel "Nayudo Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130418" ;
+    wdata:Q7200235 "PG130418" ;
 .
 
 <urn:mdciii:1603:16:598:3:130513>
@@ -1408,7 +1408,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130513" ;
     skos:prefLabel "Karkar Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130513" ;
+    wdata:Q7200235 "PG130513" ;
 .
 
 <urn:mdciii:1603:16:598:3:130514>
@@ -1418,7 +1418,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130514" ;
     skos:prefLabel "Sumgilbar Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130514" ;
+    wdata:Q7200235 "PG130514" ;
 .
 
 <urn:mdciii:1603:16:598:3:130615>
@@ -1428,7 +1428,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130615" ;
     skos:prefLabel "Bundi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130615" ;
+    wdata:Q7200235 "PG130615" ;
 .
 
 <urn:mdciii:1603:16:598:3:130616>
@@ -1438,7 +1438,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130616" ;
     skos:prefLabel "Usino Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130616" ;
+    wdata:Q7200235 "PG130616" ;
 .
 
 <urn:mdciii:1603:16:598:3:130619>
@@ -1448,7 +1448,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:130619" ;
     skos:prefLabel "Gama Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG130619" ;
+    wdata:Q7200235 "PG130619" ;
 .
 
 <urn:mdciii:1603:16:598:3:140101>
@@ -1458,7 +1458,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140101" ;
     skos:prefLabel "Ambunti Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140101" ;
+    wdata:Q7200235 "PG140101" ;
 .
 
 <urn:mdciii:1603:16:598:3:140102>
@@ -1468,7 +1468,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140102" ;
     skos:prefLabel "Dreikikier Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140102" ;
+    wdata:Q7200235 "PG140102" ;
 .
 
 <urn:mdciii:1603:16:598:3:140103>
@@ -1478,7 +1478,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140103" ;
     skos:prefLabel "Gawanga Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140103" ;
+    wdata:Q7200235 "PG140103" ;
 .
 
 <urn:mdciii:1603:16:598:3:140104>
@@ -1488,7 +1488,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140104" ;
     skos:prefLabel "Tunap/Hustein LLG"@eng-Latn ;
-    wdata:q7200235 "PG140104" ;
+    wdata:Q7200235 "PG140104" ;
 .
 
 <urn:mdciii:1603:16:598:3:140205>
@@ -1498,7 +1498,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140205" ;
     skos:prefLabel "Angoram/Middle Sepik LLG"@eng-Latn ;
-    wdata:q7200235 "PG140205" ;
+    wdata:Q7200235 "PG140205" ;
 .
 
 <urn:mdciii:1603:16:598:3:140206>
@@ -1508,7 +1508,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140206" ;
     skos:prefLabel "Karawari Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140206" ;
+    wdata:Q7200235 "PG140206" ;
 .
 
 <urn:mdciii:1603:16:598:3:140207>
@@ -1518,7 +1518,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140207" ;
     skos:prefLabel "Keram Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140207" ;
+    wdata:Q7200235 "PG140207" ;
 .
 
 <urn:mdciii:1603:16:598:3:140208>
@@ -1528,7 +1528,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140208" ;
     skos:prefLabel "Marienberg Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140208" ;
+    wdata:Q7200235 "PG140208" ;
 .
 
 <urn:mdciii:1603:16:598:3:140209>
@@ -1538,7 +1538,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140209" ;
     skos:prefLabel "Yuat Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140209" ;
+    wdata:Q7200235 "PG140209" ;
 .
 
 <urn:mdciii:1603:16:598:3:140310>
@@ -1548,7 +1548,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140310" ;
     skos:prefLabel "Albiges/Mablep Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140310" ;
+    wdata:Q7200235 "PG140310" ;
 .
 
 <urn:mdciii:1603:16:598:3:140311>
@@ -1558,7 +1558,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140311" ;
     skos:prefLabel "Bumbita/Muhian Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140311" ;
+    wdata:Q7200235 "PG140311" ;
 .
 
 <urn:mdciii:1603:16:598:3:140312>
@@ -1568,7 +1568,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140312" ;
     skos:prefLabel "Maprik/Wora Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140312" ;
+    wdata:Q7200235 "PG140312" ;
 .
 
 <urn:mdciii:1603:16:598:3:140313>
@@ -1578,7 +1578,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140313" ;
     skos:prefLabel "Yamil/Tamaui Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140313" ;
+    wdata:Q7200235 "PG140313" ;
 .
 
 <urn:mdciii:1603:16:598:3:140414>
@@ -1588,7 +1588,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140414" ;
     skos:prefLabel "Boikin/Dagua Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140414" ;
+    wdata:Q7200235 "PG140414" ;
 .
 
 <urn:mdciii:1603:16:598:3:140415>
@@ -1598,7 +1598,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140415" ;
     skos:prefLabel "Turubu Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140415" ;
+    wdata:Q7200235 "PG140415" ;
 .
 
 <urn:mdciii:1603:16:598:3:140416>
@@ -1608,7 +1608,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140416" ;
     skos:prefLabel "Wewak Islands Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140416" ;
+    wdata:Q7200235 "PG140416" ;
 .
 
 <urn:mdciii:1603:16:598:3:140417>
@@ -1618,7 +1618,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140417" ;
     skos:prefLabel "Wewak Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140417" ;
+    wdata:Q7200235 "PG140417" ;
 .
 
 <urn:mdciii:1603:16:598:3:140418>
@@ -1628,7 +1628,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140418" ;
     skos:prefLabel "Wewak Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG140418" ;
+    wdata:Q7200235 "PG140418" ;
 .
 
 <urn:mdciii:1603:16:598:3:140519>
@@ -1638,7 +1638,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140519" ;
     skos:prefLabel "Burui/Kunai Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140519" ;
+    wdata:Q7200235 "PG140519" ;
 .
 
 <urn:mdciii:1603:16:598:3:140520>
@@ -1648,7 +1648,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140520" ;
     skos:prefLabel "Gawi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140520" ;
+    wdata:Q7200235 "PG140520" ;
 .
 
 <urn:mdciii:1603:16:598:3:140521>
@@ -1658,7 +1658,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140521" ;
     skos:prefLabel "North Wosera Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140521" ;
+    wdata:Q7200235 "PG140521" ;
 .
 
 <urn:mdciii:1603:16:598:3:140522>
@@ -1668,7 +1668,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140522" ;
     skos:prefLabel "South Wosera Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140522" ;
+    wdata:Q7200235 "PG140522" ;
 .
 
 <urn:mdciii:1603:16:598:3:140623>
@@ -1678,7 +1678,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140623" ;
     skos:prefLabel "East Yangoru Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140623" ;
+    wdata:Q7200235 "PG140623" ;
 .
 
 <urn:mdciii:1603:16:598:3:140624>
@@ -1688,7 +1688,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140624" ;
     skos:prefLabel "Numbor Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140624" ;
+    wdata:Q7200235 "PG140624" ;
 .
 
 <urn:mdciii:1603:16:598:3:140625>
@@ -1698,7 +1698,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140625" ;
     skos:prefLabel "Sausso Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140625" ;
+    wdata:Q7200235 "PG140625" ;
 .
 
 <urn:mdciii:1603:16:598:3:140626>
@@ -1708,7 +1708,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:140626" ;
     skos:prefLabel "West Yangoru Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG140626" ;
+    wdata:Q7200235 "PG140626" ;
 .
 
 <urn:mdciii:1603:16:598:3:150101>
@@ -1718,7 +1718,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150101" ;
     skos:prefLabel "East Aitape Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150101" ;
+    wdata:Q7200235 "PG150101" ;
 .
 
 <urn:mdciii:1603:16:598:3:150102>
@@ -1728,7 +1728,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150102" ;
     skos:prefLabel "East Wapei Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150102" ;
+    wdata:Q7200235 "PG150102" ;
 .
 
 <urn:mdciii:1603:16:598:3:150103>
@@ -1738,7 +1738,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150103" ;
     skos:prefLabel "West Aitape Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150103" ;
+    wdata:Q7200235 "PG150103" ;
 .
 
 <urn:mdciii:1603:16:598:3:150104>
@@ -1748,7 +1748,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150104" ;
     skos:prefLabel "West Wapei Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150104" ;
+    wdata:Q7200235 "PG150104" ;
 .
 
 <urn:mdciii:1603:16:598:3:150205>
@@ -1758,7 +1758,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150205" ;
     skos:prefLabel "Mawase Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150205" ;
+    wdata:Q7200235 "PG150205" ;
 .
 
 <urn:mdciii:1603:16:598:3:150206>
@@ -1768,7 +1768,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150206" ;
     skos:prefLabel "Palmai Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150206" ;
+    wdata:Q7200235 "PG150206" ;
 .
 
 <urn:mdciii:1603:16:598:3:150207>
@@ -1778,7 +1778,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150207" ;
     skos:prefLabel "Yangkok Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150207" ;
+    wdata:Q7200235 "PG150207" ;
 .
 
 <urn:mdciii:1603:16:598:3:150217>
@@ -1788,7 +1788,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150217" ;
     skos:prefLabel "Maimai Wanwan LLG"@eng-Latn ;
-    wdata:q7200235 "PG150217" ;
+    wdata:Q7200235 "PG150217" ;
 .
 
 <urn:mdciii:1603:16:598:3:150308>
@@ -1798,7 +1798,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150308" ;
     skos:prefLabel "Namea Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150308" ;
+    wdata:Q7200235 "PG150308" ;
 .
 
 <urn:mdciii:1603:16:598:3:150309>
@@ -1808,7 +1808,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150309" ;
     skos:prefLabel "Oksapmin Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150309" ;
+    wdata:Q7200235 "PG150309" ;
 .
 
 <urn:mdciii:1603:16:598:3:150310>
@@ -1818,7 +1818,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150310" ;
     skos:prefLabel "Telefomin Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150310" ;
+    wdata:Q7200235 "PG150310" ;
 .
 
 <urn:mdciii:1603:16:598:3:150311>
@@ -1828,7 +1828,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150311" ;
     skos:prefLabel "Yapsie Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150311" ;
+    wdata:Q7200235 "PG150311" ;
 .
 
 <urn:mdciii:1603:16:598:3:150412>
@@ -1838,7 +1838,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150412" ;
     skos:prefLabel "Amanab Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150412" ;
+    wdata:Q7200235 "PG150412" ;
 .
 
 <urn:mdciii:1603:16:598:3:150413>
@@ -1848,7 +1848,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150413" ;
     skos:prefLabel "Bewani/Wutung Onei Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150413" ;
+    wdata:Q7200235 "PG150413" ;
 .
 
 <urn:mdciii:1603:16:598:3:150414>
@@ -1858,7 +1858,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150414" ;
     skos:prefLabel "Green River Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150414" ;
+    wdata:Q7200235 "PG150414" ;
 .
 
 <urn:mdciii:1603:16:598:3:150415>
@@ -1868,7 +1868,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150415" ;
     skos:prefLabel "Vanimo Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG150415" ;
+    wdata:Q7200235 "PG150415" ;
 .
 
 <urn:mdciii:1603:16:598:3:150416>
@@ -1878,7 +1878,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:150416" ;
     skos:prefLabel "Walsa Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG150416" ;
+    wdata:Q7200235 "PG150416" ;
 .
 
 <urn:mdciii:1603:16:598:3:160101>
@@ -1888,7 +1888,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:160101" ;
     skos:prefLabel "Aua Wuvulu LLG"@eng-Latn ;
-    wdata:q7200235 "PG160101" ;
+    wdata:Q7200235 "PG160101" ;
 .
 
 <urn:mdciii:1603:16:598:3:160102>
@@ -1898,7 +1898,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:160102" ;
     skos:prefLabel "Nigoherm LLG"@eng-Latn ;
-    wdata:q7200235 "PG160102" ;
+    wdata:Q7200235 "PG160102" ;
 .
 
 <urn:mdciii:1603:16:598:3:160103>
@@ -1908,7 +1908,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:160103" ;
     skos:prefLabel "Bisikani/Soparibeu LLG"@eng-Latn ;
-    wdata:q7200235 "PG160103" ;
+    wdata:Q7200235 "PG160103" ;
 .
 
 <urn:mdciii:1603:16:598:3:160104>
@@ -1918,7 +1918,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:160104" ;
     skos:prefLabel "Pomutu/Kurti/Andra LLG"@eng-Latn ;
-    wdata:q7200235 "PG160104" ;
+    wdata:Q7200235 "PG160104" ;
 .
 
 <urn:mdciii:1603:16:598:3:160105>
@@ -1928,7 +1928,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:160105" ;
     skos:prefLabel "Lelemadih/Bupichupeu LLG"@eng-Latn ;
-    wdata:q7200235 "PG160105" ;
+    wdata:Q7200235 "PG160105" ;
 .
 
 <urn:mdciii:1603:16:598:3:160106>
@@ -1938,7 +1938,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:160106" ;
     skos:prefLabel "Lorengau Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG160106" ;
+    wdata:Q7200235 "PG160106" ;
 .
 
 <urn:mdciii:1603:16:598:3:160107>
@@ -1948,7 +1948,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:160107" ;
     skos:prefLabel "Los Negros LLG"@eng-Latn ;
-    wdata:q7200235 "PG160107" ;
+    wdata:Q7200235 "PG160107" ;
 .
 
 <urn:mdciii:1603:16:598:3:160108>
@@ -1958,7 +1958,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:160108" ;
     skos:prefLabel "Nali Sopat/Penabu LLG"@eng-Latn ;
-    wdata:q7200235 "PG160108" ;
+    wdata:Q7200235 "PG160108" ;
 .
 
 <urn:mdciii:1603:16:598:3:160109>
@@ -1968,7 +1968,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:160109" ;
     skos:prefLabel "Tetidu LLG"@eng-Latn ;
-    wdata:q7200235 "PG160109" ;
+    wdata:Q7200235 "PG160109" ;
 .
 
 <urn:mdciii:1603:16:598:3:160110>
@@ -1978,7 +1978,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:160110" ;
     skos:prefLabel "Pobuma LLG"@eng-Latn ;
-    wdata:q7200235 "PG160110" ;
+    wdata:Q7200235 "PG160110" ;
 .
 
 <urn:mdciii:1603:16:598:3:160111>
@@ -1988,7 +1988,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:160111" ;
     skos:prefLabel "Balopa LLG"@eng-Latn ;
-    wdata:q7200235 "PG160111" ;
+    wdata:Q7200235 "PG160111" ;
 .
 
 <urn:mdciii:1603:16:598:3:160112>
@@ -1998,7 +1998,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:160112" ;
     skos:prefLabel "Rapatona LLG"@eng-Latn ;
-    wdata:q7200235 "PG160112" ;
+    wdata:Q7200235 "PG160112" ;
 .
 
 <urn:mdciii:1603:16:598:3:170101>
@@ -2008,7 +2008,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:170101" ;
     skos:prefLabel "Murat Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG170101" ;
+    wdata:Q7200235 "PG170101" ;
 .
 
 <urn:mdciii:1603:16:598:3:170102>
@@ -2018,7 +2018,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:170102" ;
     skos:prefLabel "Lovongai Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG170102" ;
+    wdata:Q7200235 "PG170102" ;
 .
 
 <urn:mdciii:1603:16:598:3:170103>
@@ -2028,7 +2028,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:170103" ;
     skos:prefLabel "Tikana Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG170103" ;
+    wdata:Q7200235 "PG170103" ;
 .
 
 <urn:mdciii:1603:16:598:3:170104>
@@ -2038,7 +2038,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:170104" ;
     skos:prefLabel "Kavieng Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG170104" ;
+    wdata:Q7200235 "PG170104" ;
 .
 
 <urn:mdciii:1603:16:598:3:170205>
@@ -2048,7 +2048,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:170205" ;
     skos:prefLabel "Namatanai Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG170205" ;
+    wdata:Q7200235 "PG170205" ;
 .
 
 <urn:mdciii:1603:16:598:3:170206>
@@ -2058,7 +2058,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:170206" ;
     skos:prefLabel "Sentral Niu Ailan Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG170206" ;
+    wdata:Q7200235 "PG170206" ;
 .
 
 <urn:mdciii:1603:16:598:3:170207>
@@ -2068,7 +2068,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:170207" ;
     skos:prefLabel "Konoagil Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG170207" ;
+    wdata:Q7200235 "PG170207" ;
 .
 
 <urn:mdciii:1603:16:598:3:170208>
@@ -2078,7 +2078,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:170208" ;
     skos:prefLabel "Tanir Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG170208" ;
+    wdata:Q7200235 "PG170208" ;
 .
 
 <urn:mdciii:1603:16:598:3:170209>
@@ -2088,7 +2088,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:170209" ;
     skos:prefLabel "Nimamar Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG170209" ;
+    wdata:Q7200235 "PG170209" ;
 .
 
 <urn:mdciii:1603:16:598:3:180101>
@@ -2098,7 +2098,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180101" ;
     skos:prefLabel "Central Gazelle Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180101" ;
+    wdata:Q7200235 "PG180101" ;
 .
 
 <urn:mdciii:1603:16:598:3:180102>
@@ -2108,7 +2108,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180102" ;
     skos:prefLabel "Inland Baining Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180102" ;
+    wdata:Q7200235 "PG180102" ;
 .
 
 <urn:mdciii:1603:16:598:3:180103>
@@ -2118,7 +2118,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180103" ;
     skos:prefLabel "Lassul Baining Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180103" ;
+    wdata:Q7200235 "PG180103" ;
 .
 
 <urn:mdciii:1603:16:598:3:180104>
@@ -2128,7 +2128,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180104" ;
     skos:prefLabel "Livuan/Reimber Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180104" ;
+    wdata:Q7200235 "PG180104" ;
 .
 
 <urn:mdciii:1603:16:598:3:180105>
@@ -2138,7 +2138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180105" ;
     skos:prefLabel "Vunadidir/Toma Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180105" ;
+    wdata:Q7200235 "PG180105" ;
 .
 
 <urn:mdciii:1603:16:598:3:180206>
@@ -2148,7 +2148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180206" ;
     skos:prefLabel "Bitapaka Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180206" ;
+    wdata:Q7200235 "PG180206" ;
 .
 
 <urn:mdciii:1603:16:598:3:180207>
@@ -2158,7 +2158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180207" ;
     skos:prefLabel "Duke of York Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180207" ;
+    wdata:Q7200235 "PG180207" ;
 .
 
 <urn:mdciii:1603:16:598:3:180208>
@@ -2168,7 +2168,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180208" ;
     skos:prefLabel "Kokopo/Vunamami Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG180208" ;
+    wdata:Q7200235 "PG180208" ;
 .
 
 <urn:mdciii:1603:16:598:3:180209>
@@ -2178,7 +2178,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180209" ;
     skos:prefLabel "Raluana Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180209" ;
+    wdata:Q7200235 "PG180209" ;
 .
 
 <urn:mdciii:1603:16:598:3:180310>
@@ -2188,7 +2188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180310" ;
     skos:prefLabel "Central/Inland Pomio LLG"@eng-Latn ;
-    wdata:q7200235 "PG180310" ;
+    wdata:Q7200235 "PG180310" ;
 .
 
 <urn:mdciii:1603:16:598:3:180311>
@@ -2198,7 +2198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180311" ;
     skos:prefLabel "East Pomio Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180311" ;
+    wdata:Q7200235 "PG180311" ;
 .
 
 <urn:mdciii:1603:16:598:3:180312>
@@ -2208,7 +2208,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180312" ;
     skos:prefLabel "Melkoi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180312" ;
+    wdata:Q7200235 "PG180312" ;
 .
 
 <urn:mdciii:1603:16:598:3:180313>
@@ -2218,7 +2218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180313" ;
     skos:prefLabel "Sinivit Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180313" ;
+    wdata:Q7200235 "PG180313" ;
 .
 
 <urn:mdciii:1603:16:598:3:180314>
@@ -2228,7 +2228,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180314" ;
     skos:prefLabel "West Pomio/Mamusi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180314" ;
+    wdata:Q7200235 "PG180314" ;
 .
 
 <urn:mdciii:1603:16:598:3:180415>
@@ -2238,7 +2238,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180415" ;
     skos:prefLabel "Balanataman Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180415" ;
+    wdata:Q7200235 "PG180415" ;
 .
 
 <urn:mdciii:1603:16:598:3:180416>
@@ -2248,7 +2248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180416" ;
     skos:prefLabel "Kombiu Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG180416" ;
+    wdata:Q7200235 "PG180416" ;
 .
 
 <urn:mdciii:1603:16:598:3:180417>
@@ -2258,7 +2258,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180417" ;
     skos:prefLabel "Rabaul Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG180417" ;
+    wdata:Q7200235 "PG180417" ;
 .
 
 <urn:mdciii:1603:16:598:3:180418>
@@ -2268,7 +2268,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:180418" ;
     skos:prefLabel "Watom Island Rual LLG"@eng-Latn ;
-    wdata:q7200235 "PG180418" ;
+    wdata:Q7200235 "PG180418" ;
 .
 
 <urn:mdciii:1603:16:598:3:190101>
@@ -2278,7 +2278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:190101" ;
     skos:prefLabel "Gasmata Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG190101" ;
+    wdata:Q7200235 "PG190101" ;
 .
 
 <urn:mdciii:1603:16:598:3:190102>
@@ -2288,7 +2288,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:190102" ;
     skos:prefLabel "Gloucester Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG190102" ;
+    wdata:Q7200235 "PG190102" ;
 .
 
 <urn:mdciii:1603:16:598:3:190103>
@@ -2298,7 +2298,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:190103" ;
     skos:prefLabel "Kandrian Coastal Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG190103" ;
+    wdata:Q7200235 "PG190103" ;
 .
 
 <urn:mdciii:1603:16:598:3:190104>
@@ -2308,7 +2308,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:190104" ;
     skos:prefLabel "Kandrian Inland Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG190104" ;
+    wdata:Q7200235 "PG190104" ;
 .
 
 <urn:mdciii:1603:16:598:3:190105>
@@ -2318,7 +2318,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:190105" ;
     skos:prefLabel "Kove/Kaliai Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG190105" ;
+    wdata:Q7200235 "PG190105" ;
 .
 
 <urn:mdciii:1603:16:598:3:190206>
@@ -2328,7 +2328,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:190206" ;
     skos:prefLabel "Bialla Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG190206" ;
+    wdata:Q7200235 "PG190206" ;
 .
 
 <urn:mdciii:1603:16:598:3:190207>
@@ -2338,7 +2338,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:190207" ;
     skos:prefLabel "Bali/Witu Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG190207" ;
+    wdata:Q7200235 "PG190207" ;
 .
 
 <urn:mdciii:1603:16:598:3:190208>
@@ -2348,7 +2348,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:190208" ;
     skos:prefLabel "Hoskins Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG190208" ;
+    wdata:Q7200235 "PG190208" ;
 .
 
 <urn:mdciii:1603:16:598:3:190209>
@@ -2358,7 +2358,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:190209" ;
     skos:prefLabel "Kimbe Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG190209" ;
+    wdata:Q7200235 "PG190209" ;
 .
 
 <urn:mdciii:1603:16:598:3:190210>
@@ -2368,7 +2368,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:190210" ;
     skos:prefLabel "Mosa Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG190210" ;
+    wdata:Q7200235 "PG190210" ;
 .
 
 <urn:mdciii:1603:16:598:3:190211>
@@ -2378,7 +2378,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:190211" ;
     skos:prefLabel "Talasea Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG190211" ;
+    wdata:Q7200235 "PG190211" ;
 .
 
 <urn:mdciii:1603:16:598:3:200101>
@@ -2388,7 +2388,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:200101" ;
     skos:prefLabel "Tinputz LLG"@eng-Latn ;
-    wdata:q7200235 "PG200101" ;
+    wdata:Q7200235 "PG200101" ;
 .
 
 <urn:mdciii:1603:16:598:3:200102>
@@ -2398,7 +2398,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:200102" ;
     skos:prefLabel "Kunua LLG"@eng-Latn ;
-    wdata:q7200235 "PG200102" ;
+    wdata:Q7200235 "PG200102" ;
 .
 
 <urn:mdciii:1603:16:598:3:200103>
@@ -2408,7 +2408,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:200103" ;
     skos:prefLabel "Selau/Suir LLG"@eng-Latn ;
-    wdata:q7200235 "PG200103" ;
+    wdata:Q7200235 "PG200103" ;
 .
 
 <urn:mdciii:1603:16:598:3:200104>
@@ -2418,7 +2418,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:200104" ;
     skos:prefLabel "Buka LLG"@eng-Latn ;
-    wdata:q7200235 "PG200104" ;
+    wdata:Q7200235 "PG200104" ;
 .
 
 <urn:mdciii:1603:16:598:3:200105>
@@ -2428,7 +2428,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:200105" ;
     skos:prefLabel "Nissan LLG"@eng-Latn ;
-    wdata:q7200235 "PG200105" ;
+    wdata:Q7200235 "PG200105" ;
 .
 
 <urn:mdciii:1603:16:598:3:200106>
@@ -2438,7 +2438,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:200106" ;
     skos:prefLabel "Attols LLG"@eng-Latn ;
-    wdata:q7200235 "PG200106" ;
+    wdata:Q7200235 "PG200106" ;
 .
 
 <urn:mdciii:1603:16:598:3:200207>
@@ -2448,7 +2448,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:200207" ;
     skos:prefLabel "Wakunai LLG"@eng-Latn ;
-    wdata:q7200235 "PG200207" ;
+    wdata:Q7200235 "PG200207" ;
 .
 
 <urn:mdciii:1603:16:598:3:200208>
@@ -2458,7 +2458,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:200208" ;
     skos:prefLabel "Arawa LLG"@eng-Latn ;
-    wdata:q7200235 "PG200208" ;
+    wdata:Q7200235 "PG200208" ;
 .
 
 <urn:mdciii:1603:16:598:3:200309>
@@ -2468,7 +2468,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:200309" ;
     skos:prefLabel "Buin LLG"@eng-Latn ;
-    wdata:q7200235 "PG200309" ;
+    wdata:Q7200235 "PG200309" ;
 .
 
 <urn:mdciii:1603:16:598:3:200310>
@@ -2478,7 +2478,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:200310" ;
     skos:prefLabel "Siwai LLG"@eng-Latn ;
-    wdata:q7200235 "PG200310" ;
+    wdata:Q7200235 "PG200310" ;
 .
 
 <urn:mdciii:1603:16:598:3:200311>
@@ -2488,7 +2488,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:200311" ;
     skos:prefLabel "Bana LLG"@eng-Latn ;
-    wdata:q7200235 "PG200311" ;
+    wdata:Q7200235 "PG200311" ;
 .
 
 <urn:mdciii:1603:16:598:3:200312>
@@ -2498,7 +2498,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:200312" ;
     skos:prefLabel "Torokina LLG"@eng-Latn ;
-    wdata:q7200235 "PG200312" ;
+    wdata:Q7200235 "PG200312" ;
 .
 
 <urn:mdciii:1603:16:598:3:20101>
@@ -2508,7 +2508,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:20101" ;
     skos:prefLabel "Central Kerema Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG020101" ;
+    wdata:Q7200235 "PG020101" ;
 .
 
 <urn:mdciii:1603:16:598:3:20102>
@@ -2518,7 +2518,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:20102" ;
     skos:prefLabel "East Kerema Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG020102" ;
+    wdata:Q7200235 "PG020102" ;
 .
 
 <urn:mdciii:1603:16:598:3:20103>
@@ -2528,7 +2528,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:20103" ;
     skos:prefLabel "Kaintiba Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG020103" ;
+    wdata:Q7200235 "PG020103" ;
 .
 
 <urn:mdciii:1603:16:598:3:20104>
@@ -2538,7 +2538,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:20104" ;
     skos:prefLabel "Kerema Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG020104" ;
+    wdata:Q7200235 "PG020104" ;
 .
 
 <urn:mdciii:1603:16:598:3:20105>
@@ -2548,7 +2548,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:20105" ;
     skos:prefLabel "Kotidanga Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG020105" ;
+    wdata:Q7200235 "PG020105" ;
 .
 
 <urn:mdciii:1603:16:598:3:20106>
@@ -2558,7 +2558,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:20106" ;
     skos:prefLabel "Lakekamu-Tauri Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG020106" ;
+    wdata:Q7200235 "PG020106" ;
 .
 
 <urn:mdciii:1603:16:598:3:20207>
@@ -2568,7 +2568,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:20207" ;
     skos:prefLabel "Baimuru Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG020207" ;
+    wdata:Q7200235 "PG020207" ;
 .
 
 <urn:mdciii:1603:16:598:3:20208>
@@ -2578,7 +2578,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:20208" ;
     skos:prefLabel "East Kikori Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG020208" ;
+    wdata:Q7200235 "PG020208" ;
 .
 
 <urn:mdciii:1603:16:598:3:20209>
@@ -2588,7 +2588,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:20209" ;
     skos:prefLabel "Ihu Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG020209" ;
+    wdata:Q7200235 "PG020209" ;
 .
 
 <urn:mdciii:1603:16:598:3:20210>
@@ -2598,7 +2598,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:20210" ;
     skos:prefLabel "West Kikori Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG020210" ;
+    wdata:Q7200235 "PG020210" ;
 .
 
 <urn:mdciii:1603:16:598:3:210411>
@@ -2608,7 +2608,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:210411" ;
     skos:prefLabel "Hulia Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG210411" ;
+    wdata:Q7200235 "PG210411" ;
 .
 
 <urn:mdciii:1603:16:598:3:210412>
@@ -2618,7 +2618,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:210412" ;
     skos:prefLabel "Komo Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG210412" ;
+    wdata:Q7200235 "PG210412" ;
 .
 
 <urn:mdciii:1603:16:598:3:210413>
@@ -2628,7 +2628,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:210413" ;
     skos:prefLabel "Lower Wage LLG"@eng-Latn ;
-    wdata:q7200235 "PG210413" ;
+    wdata:Q7200235 "PG210413" ;
 .
 
 <urn:mdciii:1603:16:598:3:210431>
@@ -2638,7 +2638,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:210431" ;
     skos:prefLabel "Upper Wage LLG"@eng-Latn ;
-    wdata:q7200235 "PG210431" ;
+    wdata:Q7200235 "PG210431" ;
 .
 
 <urn:mdciii:1603:16:598:3:210514>
@@ -2648,7 +2648,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:210514" ;
     skos:prefLabel "Awi/Pori Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG210514" ;
+    wdata:Q7200235 "PG210514" ;
 .
 
 <urn:mdciii:1603:16:598:3:210515>
@@ -2658,7 +2658,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:210515" ;
     skos:prefLabel "Lake Kopiago Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG210515" ;
+    wdata:Q7200235 "PG210515" ;
 .
 
 <urn:mdciii:1603:16:598:3:210516>
@@ -2668,7 +2668,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:210516" ;
     skos:prefLabel "North Koroba Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG210516" ;
+    wdata:Q7200235 "PG210516" ;
 .
 
 <urn:mdciii:1603:16:598:3:210517>
@@ -2678,7 +2678,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:210517" ;
     skos:prefLabel "South Koroba Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG210517" ;
+    wdata:Q7200235 "PG210517" ;
 .
 
 <urn:mdciii:1603:16:598:3:210827>
@@ -2688,7 +2688,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:210827" ;
     skos:prefLabel "Hayapuga Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG210827" ;
+    wdata:Q7200235 "PG210827" ;
 .
 
 <urn:mdciii:1603:16:598:3:210828>
@@ -2698,7 +2698,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:210828" ;
     skos:prefLabel "Tagali Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG210828" ;
+    wdata:Q7200235 "PG210828" ;
 .
 
 <urn:mdciii:1603:16:598:3:210829>
@@ -2708,7 +2708,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:210829" ;
     skos:prefLabel "Tari Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG210829" ;
+    wdata:Q7200235 "PG210829" ;
 .
 
 <urn:mdciii:1603:16:598:3:210830>
@@ -2718,7 +2718,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:210830" ;
     skos:prefLabel "Tebi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG210830" ;
+    wdata:Q7200235 "PG210830" ;
 .
 
 <urn:mdciii:1603:16:598:3:220101>
@@ -2728,7 +2728,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:220101" ;
     skos:prefLabel "Anglimp Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG220101" ;
+    wdata:Q7200235 "PG220101" ;
 .
 
 <urn:mdciii:1603:16:598:3:220102>
@@ -2738,7 +2738,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:220102" ;
     skos:prefLabel "South Waghi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG220102" ;
+    wdata:Q7200235 "PG220102" ;
 .
 
 <urn:mdciii:1603:16:598:3:220406>
@@ -2748,7 +2748,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:220406" ;
     skos:prefLabel "Jimi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG220406" ;
+    wdata:Q7200235 "PG220406" ;
 .
 
 <urn:mdciii:1603:16:598:3:220407>
@@ -2758,7 +2758,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:220407" ;
     skos:prefLabel "Kol Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG220407" ;
+    wdata:Q7200235 "PG220407" ;
 .
 
 <urn:mdciii:1603:16:598:3:220611>
@@ -2768,7 +2768,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:220611" ;
     skos:prefLabel "North Waghi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG220611" ;
+    wdata:Q7200235 "PG220611" ;
 .
 
 <urn:mdciii:1603:16:598:3:220615>
@@ -2778,7 +2778,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:220615" ;
     skos:prefLabel "Nondugl Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG220615" ;
+    wdata:Q7200235 "PG220615" ;
 .
 
 <urn:mdciii:1603:16:598:3:30101>
@@ -2788,7 +2788,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30101" ;
     skos:prefLabel "Amazon Bay Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030101" ;
+    wdata:Q7200235 "PG030101" ;
 .
 
 <urn:mdciii:1603:16:598:3:30102>
@@ -2798,7 +2798,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30102" ;
     skos:prefLabel "Aroma Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030102" ;
+    wdata:Q7200235 "PG030102" ;
 .
 
 <urn:mdciii:1603:16:598:3:30103>
@@ -2808,7 +2808,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30103" ;
     skos:prefLabel "Cloudy Bay Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030103" ;
+    wdata:Q7200235 "PG030103" ;
 .
 
 <urn:mdciii:1603:16:598:3:30204>
@@ -2818,7 +2818,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30204" ;
     skos:prefLabel "Guari Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030204" ;
+    wdata:Q7200235 "PG030204" ;
 .
 
 <urn:mdciii:1603:16:598:3:30205>
@@ -2828,7 +2828,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30205" ;
     skos:prefLabel "Tapini Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030205" ;
+    wdata:Q7200235 "PG030205" ;
 .
 
 <urn:mdciii:1603:16:598:3:30206>
@@ -2838,7 +2838,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30206" ;
     skos:prefLabel "Woitape Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030206" ;
+    wdata:Q7200235 "PG030206" ;
 .
 
 <urn:mdciii:1603:16:598:3:30307>
@@ -2848,7 +2848,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30307" ;
     skos:prefLabel "Hiri Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030307" ;
+    wdata:Q7200235 "PG030307" ;
 .
 
 <urn:mdciii:1603:16:598:3:30308>
@@ -2858,7 +2858,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30308" ;
     skos:prefLabel "Kairuku Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030308" ;
+    wdata:Q7200235 "PG030308" ;
 .
 
 <urn:mdciii:1603:16:598:3:30309>
@@ -2868,7 +2868,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30309" ;
     skos:prefLabel "Koiari Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030309" ;
+    wdata:Q7200235 "PG030309" ;
 .
 
 <urn:mdciii:1603:16:598:3:30310>
@@ -2878,7 +2878,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30310" ;
     skos:prefLabel "Mekeo Kuni Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030310" ;
+    wdata:Q7200235 "PG030310" ;
 .
 
 <urn:mdciii:1603:16:598:3:30411>
@@ -2888,7 +2888,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30411" ;
     skos:prefLabel "Rigo Central Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030411" ;
+    wdata:Q7200235 "PG030411" ;
 .
 
 <urn:mdciii:1603:16:598:3:30412>
@@ -2898,7 +2898,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30412" ;
     skos:prefLabel "Rigo Coastal Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030412" ;
+    wdata:Q7200235 "PG030412" ;
 .
 
 <urn:mdciii:1603:16:598:3:30413>
@@ -2908,7 +2908,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:30413" ;
     skos:prefLabel "Rigo Inland Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG030413" ;
+    wdata:Q7200235 "PG030413" ;
 .
 
 <urn:mdciii:1603:16:598:3:40101>
@@ -2918,7 +2918,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:40101" ;
     skos:prefLabel "National Capital District"@eng-Latn ;
-    wdata:q7200235 "PG040101" ;
+    wdata:Q7200235 "PG040101" ;
 .
 
 <urn:mdciii:1603:16:598:3:50101>
@@ -2928,7 +2928,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50101" ;
     skos:prefLabel "Makamaka Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050101" ;
+    wdata:Q7200235 "PG050101" ;
 .
 
 <urn:mdciii:1603:16:598:3:50102>
@@ -2938,7 +2938,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50102" ;
     skos:prefLabel "Daga Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050102" ;
+    wdata:Q7200235 "PG050102" ;
 .
 
 <urn:mdciii:1603:16:598:3:50103>
@@ -2948,7 +2948,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50103" ;
     skos:prefLabel "Weraura Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050103" ;
+    wdata:Q7200235 "PG050103" ;
 .
 
 <urn:mdciii:1603:16:598:3:50104>
@@ -2958,7 +2958,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50104" ;
     skos:prefLabel "Maramatana Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050104" ;
+    wdata:Q7200235 "PG050104" ;
 .
 
 <urn:mdciii:1603:16:598:3:50105>
@@ -2968,7 +2968,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50105" ;
     skos:prefLabel "Huhu Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050105" ;
+    wdata:Q7200235 "PG050105" ;
 .
 
 <urn:mdciii:1603:16:598:3:50106>
@@ -2978,7 +2978,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50106" ;
     skos:prefLabel "Suau Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050106" ;
+    wdata:Q7200235 "PG050106" ;
 .
 
 <urn:mdciii:1603:16:598:3:50107>
@@ -2988,7 +2988,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50107" ;
     skos:prefLabel "Alotau Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG050107" ;
+    wdata:Q7200235 "PG050107" ;
 .
 
 <urn:mdciii:1603:16:598:3:50208>
@@ -2998,7 +2998,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50208" ;
     skos:prefLabel "Bwanabwana Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050208" ;
+    wdata:Q7200235 "PG050208" ;
 .
 
 <urn:mdciii:1603:16:598:3:50209>
@@ -3008,7 +3008,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50209" ;
     skos:prefLabel "Louisiade Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050209" ;
+    wdata:Q7200235 "PG050209" ;
 .
 
 <urn:mdciii:1603:16:598:3:50210>
@@ -3018,7 +3018,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50210" ;
     skos:prefLabel "Yaleyemba Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050210" ;
+    wdata:Q7200235 "PG050210" ;
 .
 
 <urn:mdciii:1603:16:598:3:50211>
@@ -3028,7 +3028,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50211" ;
     skos:prefLabel "Murua Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050211" ;
+    wdata:Q7200235 "PG050211" ;
 .
 
 <urn:mdciii:1603:16:598:3:50312>
@@ -3038,7 +3038,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50312" ;
     skos:prefLabel "Kiriwina Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050312" ;
+    wdata:Q7200235 "PG050312" ;
 .
 
 <urn:mdciii:1603:16:598:3:50313>
@@ -3048,7 +3048,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50313" ;
     skos:prefLabel "Goodenough Island LLG"@eng-Latn ;
-    wdata:q7200235 "PG050313" ;
+    wdata:Q7200235 "PG050313" ;
 .
 
 <urn:mdciii:1603:16:598:3:50414>
@@ -3058,7 +3058,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50414" ;
     skos:prefLabel "West Ferguson Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050414" ;
+    wdata:Q7200235 "PG050414" ;
 .
 
 <urn:mdciii:1603:16:598:3:50415>
@@ -3068,7 +3068,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50415" ;
     skos:prefLabel "Dobu Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050415" ;
+    wdata:Q7200235 "PG050415" ;
 .
 
 <urn:mdciii:1603:16:598:3:50416>
@@ -3078,7 +3078,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:50416" ;
     skos:prefLabel "Duau Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG050416" ;
+    wdata:Q7200235 "PG050416" ;
 .
 
 <urn:mdciii:1603:16:598:3:60101>
@@ -3088,7 +3088,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:60101" ;
     skos:prefLabel "Oro Bay Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG060101" ;
+    wdata:Q7200235 "PG060101" ;
 .
 
 <urn:mdciii:1603:16:598:3:60102>
@@ -3098,7 +3098,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:60102" ;
     skos:prefLabel "Tufi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG060102" ;
+    wdata:Q7200235 "PG060102" ;
 .
 
 <urn:mdciii:1603:16:598:3:60103>
@@ -3108,7 +3108,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:60103" ;
     skos:prefLabel "Afore Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG060103" ;
+    wdata:Q7200235 "PG060103" ;
 .
 
 <urn:mdciii:1603:16:598:3:60104>
@@ -3118,7 +3118,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:60104" ;
     skos:prefLabel "Popondetta Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG060104" ;
+    wdata:Q7200235 "PG060104" ;
 .
 
 <urn:mdciii:1603:16:598:3:60109>
@@ -3128,7 +3128,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:60109" ;
     skos:prefLabel "Safia Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG060109" ;
+    wdata:Q7200235 "PG060109" ;
 .
 
 <urn:mdciii:1603:16:598:3:60205>
@@ -3138,7 +3138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:60205" ;
     skos:prefLabel "Kokoda Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG060205" ;
+    wdata:Q7200235 "PG060205" ;
 .
 
 <urn:mdciii:1603:16:598:3:60206>
@@ -3148,7 +3148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:60206" ;
     skos:prefLabel "Higaturu Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG060206" ;
+    wdata:Q7200235 "PG060206" ;
 .
 
 <urn:mdciii:1603:16:598:3:60207>
@@ -3158,7 +3158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:60207" ;
     skos:prefLabel "Tamata Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG060207" ;
+    wdata:Q7200235 "PG060207" ;
 .
 
 <urn:mdciii:1603:16:598:3:60208>
@@ -3168,7 +3168,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:60208" ;
     skos:prefLabel "Kira Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG060208" ;
+    wdata:Q7200235 "PG060208" ;
 .
 
 <urn:mdciii:1603:16:598:3:70101>
@@ -3178,7 +3178,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70101" ;
     skos:prefLabel "East Pangia Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070101" ;
+    wdata:Q7200235 "PG070101" ;
 .
 
 <urn:mdciii:1603:16:598:3:70102>
@@ -3188,7 +3188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70102" ;
     skos:prefLabel "Ialibu Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG070102" ;
+    wdata:Q7200235 "PG070102" ;
 .
 
 <urn:mdciii:1603:16:598:3:70103>
@@ -3198,7 +3198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70103" ;
     skos:prefLabel "Kewabi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070103" ;
+    wdata:Q7200235 "PG070103" ;
 .
 
 <urn:mdciii:1603:16:598:3:70104>
@@ -3208,7 +3208,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70104" ;
     skos:prefLabel "Wiru Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070104" ;
+    wdata:Q7200235 "PG070104" ;
 .
 
 <urn:mdciii:1603:16:598:3:70205>
@@ -3218,7 +3218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70205" ;
     skos:prefLabel "Ialibu Basin Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070205" ;
+    wdata:Q7200235 "PG070205" ;
 .
 
 <urn:mdciii:1603:16:598:3:70206>
@@ -3228,7 +3228,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70206" ;
     skos:prefLabel "Imbongu Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070206" ;
+    wdata:Q7200235 "PG070206" ;
 .
 
 <urn:mdciii:1603:16:598:3:70207>
@@ -3238,7 +3238,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70207" ;
     skos:prefLabel "Lower Mendi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070207" ;
+    wdata:Q7200235 "PG070207" ;
 .
 
 <urn:mdciii:1603:16:598:3:70308>
@@ -3248,7 +3248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70308" ;
     skos:prefLabel "Erave Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070308" ;
+    wdata:Q7200235 "PG070308" ;
 .
 
 <urn:mdciii:1603:16:598:3:70309>
@@ -3258,7 +3258,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70309" ;
     skos:prefLabel "Kagua Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070309" ;
+    wdata:Q7200235 "PG070309" ;
 .
 
 <urn:mdciii:1603:16:598:3:70310>
@@ -3268,7 +3268,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70310" ;
     skos:prefLabel "Kuare Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070310" ;
+    wdata:Q7200235 "PG070310" ;
 .
 
 <urn:mdciii:1603:16:598:3:70332>
@@ -3278,7 +3278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70332" ;
     skos:prefLabel "Aiya Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070332" ;
+    wdata:Q7200235 "PG070332" ;
 .
 
 <urn:mdciii:1603:16:598:3:70618>
@@ -3288,7 +3288,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70618" ;
     skos:prefLabel "Karints Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070618" ;
+    wdata:Q7200235 "PG070618" ;
 .
 
 <urn:mdciii:1603:16:598:3:70619>
@@ -3298,7 +3298,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70619" ;
     skos:prefLabel "Lai Valley Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070619" ;
+    wdata:Q7200235 "PG070619" ;
 .
 
 <urn:mdciii:1603:16:598:3:70620>
@@ -3308,7 +3308,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70620" ;
     skos:prefLabel "Mendi Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG070620" ;
+    wdata:Q7200235 "PG070620" ;
 .
 
 <urn:mdciii:1603:16:598:3:70621>
@@ -3318,7 +3318,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70621" ;
     skos:prefLabel "Upper Mendi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070621" ;
+    wdata:Q7200235 "PG070621" ;
 .
 
 <urn:mdciii:1603:16:598:3:70722>
@@ -3328,7 +3328,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70722" ;
     skos:prefLabel "Lake Kutubu Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070722" ;
+    wdata:Q7200235 "PG070722" ;
 .
 
 <urn:mdciii:1603:16:598:3:70723>
@@ -3338,7 +3338,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70723" ;
     skos:prefLabel "Mt Bosavi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070723" ;
+    wdata:Q7200235 "PG070723" ;
 .
 
 <urn:mdciii:1603:16:598:3:70724>
@@ -3348,7 +3348,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70724" ;
     skos:prefLabel "Nembi Plateau Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070724" ;
+    wdata:Q7200235 "PG070724" ;
 .
 
 <urn:mdciii:1603:16:598:3:70725>
@@ -3358,7 +3358,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70725" ;
     skos:prefLabel "Nipa Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070725" ;
+    wdata:Q7200235 "PG070725" ;
 .
 
 <urn:mdciii:1603:16:598:3:70726>
@@ -3368,7 +3368,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:70726" ;
     skos:prefLabel "Poroma Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG070726" ;
+    wdata:Q7200235 "PG070726" ;
 .
 
 <urn:mdciii:1603:16:598:3:80101>
@@ -3378,7 +3378,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80101" ;
     skos:prefLabel "Kandep Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080101" ;
+    wdata:Q7200235 "PG080101" ;
 .
 
 <urn:mdciii:1603:16:598:3:80102>
@@ -3388,7 +3388,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80102" ;
     skos:prefLabel "Wage Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080102" ;
+    wdata:Q7200235 "PG080102" ;
 .
 
 <urn:mdciii:1603:16:598:3:80203>
@@ -3398,7 +3398,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80203" ;
     skos:prefLabel "Ambum Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080203" ;
+    wdata:Q7200235 "PG080203" ;
 .
 
 <urn:mdciii:1603:16:598:3:80204>
@@ -3408,7 +3408,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80204" ;
     skos:prefLabel "Kompiam Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080204" ;
+    wdata:Q7200235 "PG080204" ;
 .
 
 <urn:mdciii:1603:16:598:3:80205>
@@ -3418,7 +3418,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80205" ;
     skos:prefLabel "Wapi-Yengis Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080205" ;
+    wdata:Q7200235 "PG080205" ;
 .
 
 <urn:mdciii:1603:16:598:3:80306>
@@ -3428,7 +3428,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80306" ;
     skos:prefLabel "Lagaip Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080306" ;
+    wdata:Q7200235 "PG080306" ;
 .
 
 <urn:mdciii:1603:16:598:3:80307>
@@ -3438,7 +3438,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80307" ;
     skos:prefLabel "Maip Muritaka Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080307" ;
+    wdata:Q7200235 "PG080307" ;
 .
 
 <urn:mdciii:1603:16:598:3:80308>
@@ -3448,7 +3448,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80308" ;
     skos:prefLabel "Paiela/Hewa Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080308" ;
+    wdata:Q7200235 "PG080308" ;
 .
 
 <urn:mdciii:1603:16:598:3:80309>
@@ -3458,7 +3458,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80309" ;
     skos:prefLabel "Porgera Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080309" ;
+    wdata:Q7200235 "PG080309" ;
 .
 
 <urn:mdciii:1603:16:598:3:80315>
@@ -3468,7 +3468,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80315" ;
     skos:prefLabel "Pilikambi Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080315" ;
+    wdata:Q7200235 "PG080315" ;
 .
 
 <urn:mdciii:1603:16:598:3:80410>
@@ -3478,7 +3478,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80410" ;
     skos:prefLabel "Wabag Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG080410" ;
+    wdata:Q7200235 "PG080410" ;
 .
 
 <urn:mdciii:1603:16:598:3:80411>
@@ -3488,7 +3488,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80411" ;
     skos:prefLabel "Wabag Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080411" ;
+    wdata:Q7200235 "PG080411" ;
 .
 
 <urn:mdciii:1603:16:598:3:80412>
@@ -3498,7 +3498,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80412" ;
     skos:prefLabel "Maramuni Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080412" ;
+    wdata:Q7200235 "PG080412" ;
 .
 
 <urn:mdciii:1603:16:598:3:80513>
@@ -3508,7 +3508,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80513" ;
     skos:prefLabel "Wapenamanda Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080513" ;
+    wdata:Q7200235 "PG080513" ;
 .
 
 <urn:mdciii:1603:16:598:3:80514>
@@ -3518,7 +3518,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:80514" ;
     skos:prefLabel "Tsak Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG080514" ;
+    wdata:Q7200235 "PG080514" ;
 .
 
 <urn:mdciii:1603:16:598:3:90203>
@@ -3528,7 +3528,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:90203" ;
     skos:prefLabel "Dei Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG090203" ;
+    wdata:Q7200235 "PG090203" ;
 .
 
 <urn:mdciii:1603:16:598:3:90214>
@@ -3538,7 +3538,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:90214" ;
     skos:prefLabel "Kotna Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG090214" ;
+    wdata:Q7200235 "PG090214" ;
 .
 
 <urn:mdciii:1603:16:598:3:90304>
@@ -3548,7 +3548,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:90304" ;
     skos:prefLabel "Mt Hagen Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG090304" ;
+    wdata:Q7200235 "PG090304" ;
 .
 
 <urn:mdciii:1603:16:598:3:90305>
@@ -3558,7 +3558,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:90305" ;
     skos:prefLabel "Mt Hagen Urban LLG"@eng-Latn ;
-    wdata:q7200235 "PG090305" ;
+    wdata:Q7200235 "PG090305" ;
 .
 
 <urn:mdciii:1603:16:598:3:90508>
@@ -3568,7 +3568,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:90508" ;
     skos:prefLabel "Mul Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG090508" ;
+    wdata:Q7200235 "PG090508" ;
 .
 
 <urn:mdciii:1603:16:598:3:90509>
@@ -3578,7 +3578,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:90509" ;
     skos:prefLabel "Baiyer Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG090509" ;
+    wdata:Q7200235 "PG090509" ;
 .
 
 <urn:mdciii:1603:16:598:3:90510>
@@ -3588,7 +3588,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:90510" ;
     skos:prefLabel "Lumusa Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG090510" ;
+    wdata:Q7200235 "PG090510" ;
 .
 
 <urn:mdciii:1603:16:598:3:90712>
@@ -3598,7 +3598,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:90712" ;
     skos:prefLabel "Mt Giluwe Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG090712" ;
+    wdata:Q7200235 "PG090712" ;
 .
 
 <urn:mdciii:1603:16:598:3:90713>
@@ -3608,6 +3608,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:598:3:90713" ;
     skos:prefLabel "Nebilyer Rural LLG"@eng-Latn ;
-    wdata:q7200235 "PG090713" ;
+    wdata:Q7200235 "PG090713" ;
 .
 

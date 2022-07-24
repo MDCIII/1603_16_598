@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Western Province"@eng-Latn ;
-    wdata:q7200235 "PG01" ;
+    wdata:Q7200235 "PG01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -66,7 +66,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Chimbu (Simbu) Province"@eng-Latn ;
-    wdata:q7200235 "PG10" ;
+    wdata:Q7200235 "PG10" ;
 .
 
 <urn:mdciii:1603:16:598:1:11>
@@ -77,7 +77,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Eastern Highlands Province"@eng-Latn ;
-    wdata:q7200235 "PG11" ;
+    wdata:Q7200235 "PG11" ;
 .
 
 <urn:mdciii:1603:16:598:1:12>
@@ -88,7 +88,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Morobe Province"@eng-Latn ;
-    wdata:q7200235 "PG12" ;
+    wdata:Q7200235 "PG12" ;
 .
 
 <urn:mdciii:1603:16:598:1:13>
@@ -99,7 +99,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Madang Province"@eng-Latn ;
-    wdata:q7200235 "PG13" ;
+    wdata:Q7200235 "PG13" ;
 .
 
 <urn:mdciii:1603:16:598:1:14>
@@ -110,7 +110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "East Sepik Province"@eng-Latn ;
-    wdata:q7200235 "PG14" ;
+    wdata:Q7200235 "PG14" ;
 .
 
 <urn:mdciii:1603:16:598:1:15>
@@ -121,7 +121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "West Sepik (Sandaun) Province"@eng-Latn ;
-    wdata:q7200235 "PG15" ;
+    wdata:Q7200235 "PG15" ;
 .
 
 <urn:mdciii:1603:16:598:1:16>
@@ -132,7 +132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Manus Province"@eng-Latn ;
-    wdata:q7200235 "PG16" ;
+    wdata:Q7200235 "PG16" ;
 .
 
 <urn:mdciii:1603:16:598:1:17>
@@ -143,7 +143,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:17" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "New Ireland Province"@eng-Latn ;
-    wdata:q7200235 "PG17" ;
+    wdata:Q7200235 "PG17" ;
 .
 
 <urn:mdciii:1603:16:598:1:18>
@@ -154,7 +154,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:18" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "East New Britain Province"@eng-Latn ;
-    wdata:q7200235 "PG18" ;
+    wdata:Q7200235 "PG18" ;
 .
 
 <urn:mdciii:1603:16:598:1:19>
@@ -165,7 +165,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:19" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "West New Britain Province"@eng-Latn ;
-    wdata:q7200235 "PG19" ;
+    wdata:Q7200235 "PG19" ;
 .
 
 <urn:mdciii:1603:16:598:1:2>
@@ -176,7 +176,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Gulf Province"@eng-Latn ;
-    wdata:q7200235 "PG02" ;
+    wdata:Q7200235 "PG02" ;
 .
 
 <urn:mdciii:1603:16:598:1:20>
@@ -187,7 +187,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:20" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Autonomous Region of Bougainville"@eng-Latn ;
-    wdata:q7200235 "PG20" ;
+    wdata:Q7200235 "PG20" ;
 .
 
 <urn:mdciii:1603:16:598:1:21>
@@ -198,7 +198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:21" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Hela Province"@eng-Latn ;
-    wdata:q7200235 "PG21" ;
+    wdata:Q7200235 "PG21" ;
 .
 
 <urn:mdciii:1603:16:598:1:22>
@@ -209,7 +209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:22" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Jiwaka Province"@eng-Latn ;
-    wdata:q7200235 "PG22" ;
+    wdata:Q7200235 "PG22" ;
 .
 
 <urn:mdciii:1603:16:598:1:3>
@@ -220,7 +220,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Central Province"@eng-Latn ;
-    wdata:q7200235 "PG03" ;
+    wdata:Q7200235 "PG03" ;
 .
 
 <urn:mdciii:1603:16:598:1:4>
@@ -231,7 +231,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "National Capital District"@eng-Latn ;
-    wdata:q7200235 "PG04" ;
+    wdata:Q7200235 "PG04" ;
 .
 
 <urn:mdciii:1603:16:598:1:5>
@@ -242,7 +242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Milne Bay Province"@eng-Latn ;
-    wdata:q7200235 "PG05" ;
+    wdata:Q7200235 "PG05" ;
 .
 
 <urn:mdciii:1603:16:598:1:6>
@@ -253,7 +253,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Northern (Oro) Province"@eng-Latn ;
-    wdata:q7200235 "PG06" ;
+    wdata:Q7200235 "PG06" ;
 .
 
 <urn:mdciii:1603:16:598:1:7>
@@ -264,7 +264,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Southern Highlands Province"@eng-Latn ;
-    wdata:q7200235 "PG07" ;
+    wdata:Q7200235 "PG07" ;
 .
 
 <urn:mdciii:1603:16:598:1:8>
@@ -275,7 +275,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Enga Province"@eng-Latn ;
-    wdata:q7200235 "PG08" ;
+    wdata:Q7200235 "PG08" ;
 .
 
 <urn:mdciii:1603:16:598:1:9>
@@ -286,6 +286,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:598:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:598:0> ;
     skos:prefLabel "Western Highlands Province"@eng-Latn ;
-    wdata:q7200235 "PG09" ;
+    wdata:Q7200235 "PG09" ;
 .
 
